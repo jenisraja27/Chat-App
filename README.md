@@ -1,2 +1,2 @@
 # Chat-App
-![](Ouput.png)
+![](/Output.png)
